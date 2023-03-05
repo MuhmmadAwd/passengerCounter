@@ -22,6 +22,7 @@ h1 {
     font-size: 1.5rem;
     border: 0;
     width: 200px;
+    margin-bottom: 1em;
 }
 
 .btn-red {
@@ -30,9 +31,4 @@ h1 {
 
 .btn-green {
     background-color: green;
-}
-
-strong {
-    display: block;
-    margin-top: 1.5em;
 }
