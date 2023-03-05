@@ -59,6 +59,20 @@ version of the website.
 
 ## Contact
 
-<h4> If you have any questions or feedback, please feel free to contact me at [muhmmad.awd@gmail.com]. </h4>
-- linkedin [@muhmmadawd](https://www.linkedin.com/in/muhmmadawd/)
-- GitHub [@muhmmadawd](https://github.com/MuhmmadAwd)
+<h5> If you have any questions or feedback, please feel free to contact me at
+<a href="mailto:muhmmad.awd@gmail.com">muhmmad.awd@gmail.com</a>
+</h5>
+<div align="center">
+  <h5>
+    <a href="https://www.linkedin.com/in/muhmmadawd/">
+      linkedin - muhmmadawd
+    </a>
+  </h5>
+</div>
+<div align="center">
+  <h5>
+    <a href="https://github.com/MuhmmadAwd/">
+      GitHub - muhmmadawd
+    </a>
+  </h5>
+</div>
